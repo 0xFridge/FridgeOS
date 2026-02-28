@@ -1,0 +1,11 @@
+# Build artifacts
+/build/
+*.o
+*.elf
+*.bin
+*.img
+
+# Temporary files
+*.log
+Thumbs.db
+.DS_Store
